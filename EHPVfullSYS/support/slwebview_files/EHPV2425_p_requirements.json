@@ -1,0 +1,437 @@
+[
+ {
+  "sid":"EHPV2425:506",
+  "informer":"<p> No Requirements </p>",
+  "viewer":{
+   "style":"stroke: orange;stroke-opacity: 1;stroke-width: 4;stroke-linejoin: miter;stroke-dasharray: none;"
+  }
+ },
+ {
+  "sid":"EHPV2425:515",
+  "informer":"<html><head><meta charset=\"UTF-8\"></head><body>\n<h2><font color=\"#993300\">\"Elbow Pads\" <i>(Component)</i></font></h2>\n<hr>\n<font color=\"#993300\"><h3>1. link #36</h3>\nLink to Requirements Toolbox<br/>\nDocument: <font color=\"blue\">NGOS.slreqx</font><br/>\nLocation/Item: <font color=\"blue\">Arm Safety</font><br/>\n</font>\n</body></html>\n",
+  "viewer":{
+   "color":"orange"
+  }
+ },
+ {
+  "sid":"EHPV2425:508",
+  "informer":"<p> No Requirements </p>",
+  "viewer":[
+  ]
+ },
+ {
+  "sid":"EHPV2425:510",
+  "informer":"<p> No Requirements </p>",
+  "viewer":[
+  ]
+ },
+ {
+  "sid":"EHPV2425:507",
+  "informer":"<html><head><meta charset=\"UTF-8\"></head><body>\n<h2><font color=\"#993300\">\"Helmet\" <i>(Component)</i></font></h2>\n<hr>\n<font color=\"#993300\"><h3>1. link #33</h3>\nLink to Requirements Toolbox<br/>\nDocument: <font color=\"blue\">NGOS.slreqx</font><br/>\nLocation/Item: <font color=\"blue\">Head Safety</font><br/>\n</font>\n</body></html>\n",
+  "viewer":{
+   "color":"orange"
+  }
+ },
+ {
+  "sid":"EHPV2425:516",
+  "informer":"<html><head><meta charset=\"UTF-8\"></head><body>\n<h2><font color=\"#993300\">\"Knee Pads\" <i>(Component)</i></font></h2>\n<hr>\n<font color=\"#993300\"><h3>1. link #35</h3>\nLink to Requirements Toolbox<br/>\nDocument: <font color=\"blue\">NGOS.slreqx</font><br/>\nLocation/Item: <font color=\"blue\">Leg Safety</font><br/>\n</font>\n</body></html>\n",
+  "viewer":{
+   "color":"orange"
+  }
+ },
+ {
+  "sid":"EHPV2425:509",
+  "informer":"<p> No Requirements </p>",
+  "viewer":[
+  ]
+ },
+ {
+  "sid":"EHPV2425:21",
+  "informer":"<html><head><meta charset=\"UTF-8\"></head><body>\n<h2><font color=\"#993300\">\"Electrical\" <i>(Component, 2 links)</i></font></h2>\n<hr>\n<font color=\"#993300\"><h3>1. link #2</h3>\nLink to Requirements Toolbox<br/>\nDocument: <font color=\"blue\">components.slreqx</font><br/>\nLocation/Item: <font color=\"blue\">Fuses</font><br/>\n</font>\n<hr>\n<font color=\"#993300\"><h3>2. link #67</h3>\nLink to Requirements Toolbox<br/>\nDocument: <font color=\"blue\">NGOS.slreqx</font><br/>\nLocation/Item: <font color=\"blue\">Enhanced Driver Situational Awareness</font><br/>\n</font>\n</body></html>\n",
+  "viewer":{
+   "color":"orange"
+  }
+ },
+ {
+  "sid":"EHPV2425:147",
+  "informer":"<p> No Requirements </p>",
+  "viewer":{
+   "style":"stroke: orange;stroke-opacity: 1;stroke-width: 4;stroke-linejoin: miter;stroke-dasharray: none;"
+  }
+ },
+ {
+  "sid":"EHPV2425:163",
+  "informer":"<p> No Requirements </p>",
+  "viewer":[
+  ]
+ },
+ {
+  "sid":"EHPV2425:417",
+  "informer":"<p> No Requirements </p>",
+  "viewer":[
+  ]
+ },
+ {
+  "sid":"EHPV2425:420",
+  "informer":"<p> No Requirements </p>",
+  "viewer":[
+  ]
+ },
+ {
+  "sid":"EHPV2425:257",
+  "informer":"<p> No Requirements </p>",
+  "viewer":[
+  ]
+ },
+ {
+  "sid":"EHPV2425:331",
+  "informer":"<p> No Requirements </p>",
+  "viewer":[
+  ]
+ },
+ {
+  "sid":"EHPV2425:23",
+  "informer":"<p> No Requirements </p>",
+  "viewer":[
+  ]
+ },
+ {
+  "sid":"EHPV2425:151",
+  "informer":"<html><head><meta charset=\"UTF-8\"></head><body>\n<h2><font color=\"#993300\">\"Battery Humidity\" <i>(Component, 2 links)</i></font></h2>\n<hr>\n<font color=\"#993300\"><h3>1. link #19</h3>\nLink to Requirements Toolbox<br/>\nDocument: <font color=\"blue\">NGOS.slreqx</font><br/>\nLocation/Item: <font color=\"blue\">Electrical Protection</font><br/>\n</font>\n<hr>\n<font color=\"#993300\"><h3>2. link #24</h3>\nLink to Requirements Toolbox<br/>\nDocument: <font color=\"blue\">NGOS.slreqx</font><br/>\nLocation/Item: <font color=\"blue\">Component Preservation</font><br/>\n</font>\n<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\np, li { white-space: pre-wrap; }\n</style></head><body align=\"left\" style=\" font-family:'MS Shell Dlg 2','MS Shell Dlg 2'; font-size:10pt; font-weight:400; font-style:normal;\">\n<p align=\"left\" style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-family:'MS Shell Dlg 2';\">Some components may overheat or draw too much current. We need to mitigate that. </span></p></body></html>\n</body></html>\n",
+  "viewer":{
+   "color":"orange"
+  }
+ },
+ {
+  "sid":"EHPV2425:150",
+  "informer":"<html><head><meta charset=\"UTF-8\"></head><body>\n<h2><font color=\"#993300\">\"Battery Thermocouple\" <i>(Component, 2 links)</i></font></h2>\n<hr>\n<font color=\"#993300\"><h3>1. link #18</h3>\nLink to Requirements Toolbox<br/>\nDocument: <font color=\"blue\">NGOS.slreqx</font><br/>\nLocation/Item: <font color=\"blue\">Electrical Protection</font><br/>\n</font>\n<hr>\n<font color=\"#993300\"><h3>2. link #23</h3>\nLink to Requirements Toolbox<br/>\nDocument: <font color=\"blue\">NGOS.slreqx</font><br/>\nLocation/Item: <font color=\"blue\">Component Preservation</font><br/>\n</font>\n<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\np, li { white-space: pre-wrap; }\n</style></head><body align=\"left\" style=\" font-family:'MS Shell Dlg 2','MS Shell Dlg 2'; font-size:10pt; font-weight:400; font-style:normal;\">\n<p align=\"left\" style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-family:'MS Shell Dlg 2';\">Some components may overheat or draw too much current. We need to mitigate that. </span></p></body></html>\n</body></html>\n",
+  "viewer":{
+   "color":"orange"
+  }
+ },
+ {
+  "sid":"EHPV2425:22",
+  "informer":"<html><head><meta charset=\"UTF-8\"></head><body>\n<h2><font color=\"#993300\">\"Motor Battery\" <i>(Component)</i></font></h2>\n<hr>\n<font color=\"#993300\"><h3>1. link #4</h3>\nLink to Requirements Toolbox<br/>\nDocument: <font color=\"blue\">components.slreqx</font><br/>\nLocation/Item: <font color=\"blue\">Motor Battery</font><br/>\n</font>\n</body></html>\n",
+  "viewer":{
+   "color":"orange"
+  }
+ },
+ {
+  "sid":"EHPV2425:498",
+  "informer":"<html><head><meta charset=\"UTF-8\"></head><body>\n<h2><font color=\"#993300\">\"Relay Break\" <i>(Component)</i></font></h2>\n<hr>\n<font color=\"#993300\"><h3>1. link #21</h3>\nLink to Requirements Toolbox<br/>\nDocument: <font color=\"blue\">NGOS.slreqx</font><br/>\nLocation/Item: <font color=\"blue\">Emergency Shutoff Capabilities </font><br/>\n</font>\n</body></html>\n",
+  "viewer":{
+   "color":"orange"
+  }
+ },
+ {
+  "sid":"EHPV2425:34",
+  "informer":"<html><head><meta charset=\"UTF-8\"></head><body>\n<h2><font color=\"#993300\">\"Fuse\" <i>(Component, 2 links)</i></font></h2>\n<hr>\n<font color=\"#993300\"><h3>1. link #3</h3>\nLink to Requirements Toolbox<br/>\nDocument: <font color=\"blue\">components.slreqx</font><br/>\nLocation/Item: <font color=\"blue\">Fuses</font><br/>\n</font>\n<hr>\n<font color=\"#993300\"><h3>2. link #20</h3>\nLink to Requirements Toolbox<br/>\nDocument: <font color=\"blue\">NGOS.slreqx</font><br/>\nLocation/Item: <font color=\"blue\">Electrical Protection</font><br/>\n</font>\n</body></html>\n",
+  "viewer":{
+   "color":"orange"
+  }
+ },
+ {
+  "sid":"EHPV2425:491",
+  "informer":"<p> No Requirements </p>",
+  "viewer":[
+  ]
+ },
+ {
+  "sid":"EHPV2425:487",
+  "informer":"<p> No Requirements </p>",
+  "viewer":[
+  ]
+ },
+ {
+  "sid":"EHPV2425:482",
+  "informer":"<p> No Requirements </p>",
+  "viewer":[
+  ]
+ },
+ {
+  "sid":"EHPV2425:24",
+  "informer":"<p> No Requirements </p>",
+  "viewer":[
+  ]
+ },
+ {
+  "sid":"EHPV2425:132",
+  "informer":"<p> No Requirements </p>",
+  "viewer":[
+  ]
+ },
+ {
+  "sid":"EHPV2425:306",
+  "informer":"<p> No Requirements </p>",
+  "viewer":[
+  ]
+ },
+ {
+  "sid":"EHPV2425:188",
+  "informer":"<p> No Requirements </p>",
+  "viewer":[
+  ]
+ },
+ {
+  "sid":"EHPV2425:262",
+  "informer":"<p> No Requirements </p>",
+  "viewer":[
+  ]
+ },
+ {
+  "sid":"EHPV2425:270",
+  "informer":"<p> No Requirements </p>",
+  "viewer":[
+  ]
+ },
+ {
+  "sid":"EHPV2425:305",
+  "informer":"<p> No Requirements </p>",
+  "viewer":[
+  ]
+ },
+ {
+  "sid":"EHPV2425:236",
+  "informer":"<p> No Requirements </p>",
+  "viewer":[
+  ]
+ },
+ {
+  "sid":"EHPV2425:38",
+  "informer":"<p> No Requirements </p>",
+  "viewer":{
+   "style":"stroke: orange;stroke-opacity: 1;stroke-width: 4;stroke-linejoin: miter;stroke-dasharray: none;"
+  }
+ },
+ {
+  "sid":"EHPV2425:39",
+  "informer":"<html><head><meta charset=\"UTF-8\"></head><body>\n<h2><font color=\"#993300\">\"Chassis\" <i>(Component, 15 links)</i></font></h2>\n<hr>\n<font color=\"#993300\"><h3>1. link #10</h3>\nLink to Requirements Toolbox<br/>\nDocument: <font color=\"blue\">components.slreqx</font><br/>\nLocation/Item: <font color=\"blue\">Chassis</font><br/>\n</font>\n<hr>\n<font color=\"#993300\"><h3>2. link #25</h3>\nLink to Requirements Toolbox<br/>\nDocument: <font color=\"blue\">NGOS.slreqx</font><br/>\nLocation/Item: <font color=\"blue\">Preventing Cuts</font><br/>\n</font>\n<hr>\n<font color=\"#993300\"><h3>3. link #26</h3>\nLink to Requirements Toolbox<br/>\nDocument: <font color=\"blue\">NGOS.slreqx</font><br/>\nLocation/Item: <font color=\"blue\">Driver Ingress and Egress</font><br/>\n</font>\n<hr>\n<font color=\"#993300\"><h3>4. link #29</h3>\nLink to Requirements Toolbox<br/>\nDocument: <font color=\"blue\">NGOS.slreqx</font><br/>\nLocation/Item: <font color=\"blue\">Road Visibility</font><br/>\n</font>\n<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\np, li { white-space: pre-wrap; }\n</style></head><body align=\"left\" style=\" font-family:'MS Shell Dlg 2','MS Shell Dlg 2'; font-size:10pt; font-weight:400; font-style:normal;\">\n<p align=\"left\" style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-family:'MS Shell Dlg 2';\">To see and be seen</span></p></body></html>\n<hr>\n<font color=\"#993300\"><h3>5. link #37</h3>\nLink to Requirements Toolbox<br/>\nDocument: <font color=\"blue\">NGOS.slreqx</font><br/>\nLocation/Item: <font color=\"blue\">Road Safety</font><br/>\n</font>\n<hr>\n<font color=\"#993300\"><h3>6. link #38</h3>\nLink to Requirements Toolbox<br/>\nDocument: <font color=\"blue\">NGOS.slreqx</font><br/>\nLocation/Item: <font color=\"blue\">Height Compensation </font><br/>\n</font>\n<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\np, li { white-space: pre-wrap; }\n</style></head><body align=\"left\" style=\" font-family:'MS Shell Dlg 2','MS Shell Dlg 2'; font-size:10pt; font-weight:400; font-style:normal;\">\n<p align=\"left\" style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-family:'MS Shell Dlg 2';\">5' - 6' 4&quot;</span></p></body></html>\n<hr>\n<font color=\"#993300\"><h3>7. link #41</h3>\nLink to Requirements Toolbox<br/>\nDocument: <font color=\"blue\">NGOS.slreqx</font><br/>\nLocation/Item: <font color=\"blue\">Reaching pedals</font><br/>\n</font>\n<hr>\n<font color=\"#993300\"><h3>8. link #42</h3>\nLink to Requirements Toolbox<br/>\nDocument: <font color=\"blue\">NGOS.slreqx</font><br/>\nLocation/Item: <font color=\"blue\">Weight Compensation</font><br/>\n</font>\n<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\np, li { white-space: pre-wrap; }\n</style></head><body align=\"left\" style=\" font-family:'MS Shell Dlg 2','MS Shell Dlg 2'; font-size:10pt; font-weight:400; font-style:normal;\">\n<p align=\"left\" style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-family:'MS Shell Dlg 2';\">&lt;300 lbs</span></p></body></html>\n<hr>\n<font color=\"#993300\"><h3>9. link #43</h3>\nLink to Requirements Toolbox<br/>\nDocument: <font color=\"blue\">NGOS.slreqx</font><br/>\nLocation/Item: <font color=\"blue\">Structure is Unable deform under 300 lbs load</font><br/>\n</font>\n<hr>\n<font color=\"#993300\"><h3>10. link #46</h3>\nLink to Requirements Toolbox<br/>\nDocument: <font color=\"blue\">NGOS.slreqx</font><br/>\nLocation/Item: <font color=\"blue\">Aerodynamic Drag Mitigation </font><br/>\n</font>\n<hr>\n<font color=\"#993300\"><h3>11. link #47</h3>\nLink to Requirements Toolbox<br/>\nDocument: <font color=\"blue\">NGOS.slreqx</font><br/>\nLocation/Item: <font color=\"blue\">Be able to secure the vehicle when not in operation</font><br/>\n</font>\n<hr>\n<font color=\"#993300\"><h3>12. link #49</h3>\nLink to Requirements Toolbox<br/>\nDocument: <font color=\"blue\">NGOS.slreqx</font><br/>\nLocation/Item: <font color=\"blue\">Sleek Design</font><br/>\n</font>\n<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\np, li { white-space: pre-wrap; }\n</style></head><body align=\"left\" style=\" font-family:'MS Shell Dlg 2','MS Shell Dlg 2'; font-size:10pt; font-weight:400; font-style:normal;\">\n<p align=\"left\" style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-family:'MS Shell Dlg 2';\">We dont want to look </span></p></body></html>\n<hr>\n<font color=\"#993300\"><h3>13. link #53</h3>\nLink to Requirements Toolbox<br/>\nDocument: <font color=\"blue\">NGOS.slreqx</font><br/>\nLocation/Item: <font color=\"blue\">Cargo Compartment</font><br/>\n</font>\n<hr>\n<font color=\"#993300\"><h3>14. link #54</h3>\nLink to Requirements Toolbox<br/>\nDocument: <font color=\"blue\">NGOS.slreqx</font><br/>\nLocation/Item: <font color=\"blue\">Secured Cargo</font><br/>\n</font>\n<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\np, li { white-space: pre-wrap; }\n</style></head><body align=\"left\" style=\" font-family:'MS Shell Dlg 2','MS Shell Dlg 2'; font-size:10pt; font-weight:400; font-style:normal;\">\n<p align=\"left\" style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-family:'MS Shell Dlg 2';\">Being able to </span></p></body></html>\n<hr>\n<font color=\"#993300\"><h3>15. link #64</h3>\nLink to Requirements Toolbox<br/>\nDocument: <font color=\"blue\">NGOS.slreqx</font><br/>\nLocation/Item: <font color=\"blue\">Heat</font><br/>\n</font>\n</body></html>\n",
+  "viewer":{
+   "color":"orange"
+  }
+ },
+ {
+  "sid":"EHPV2425:458",
+  "informer":"<html><head><meta charset=\"UTF-8\"></head><body>\n<h2><font color=\"#993300\">\"Dash Pannel\" <i>(Component)</i></font></h2>\n<hr>\n<font color=\"#993300\"><h3>1. link #28</h3>\nLink to Requirements Toolbox<br/>\nDocument: <font color=\"blue\">NGOS.slreqx</font><br/>\nLocation/Item: <font color=\"blue\">Road Visibility</font><br/>\n</font>\n<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\np, li { white-space: pre-wrap; }\n</style></head><body align=\"left\" style=\" font-family:'MS Shell Dlg 2','MS Shell Dlg 2'; font-size:10pt; font-weight:400; font-style:normal;\">\n<p align=\"left\" style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-family:'MS Shell Dlg 2';\">To see and be seen</span></p></body></html>\n</body></html>\n",
+  "viewer":{
+   "color":"orange"
+  }
+ },
+ {
+  "sid":"EHPV2425:460",
+  "informer":"<p> No Requirements </p>",
+  "viewer":[
+  ]
+ },
+ {
+  "sid":"EHPV2425:461",
+  "informer":"<p> No Requirements </p>",
+  "viewer":[
+  ]
+ },
+ {
+  "sid":"EHPV2425:431",
+  "informer":"<html><head><meta charset=\"UTF-8\"></head><body>\n<h2><font color=\"#993300\">\"Foot Crank\" <i>(Component)</i></font></h2>\n<hr>\n<font color=\"#993300\"><h3>1. link #40</h3>\nLink to Requirements Toolbox<br/>\nDocument: <font color=\"blue\">NGOS.slreqx</font><br/>\nLocation/Item: <font color=\"blue\">Reaching pedals</font><br/>\n</font>\n</body></html>\n",
+  "viewer":{
+   "color":"orange"
+  }
+ },
+ {
+  "sid":"EHPV2425:54",
+  "informer":"<html><head><meta charset=\"UTF-8\"></head><body>\n<h2><font color=\"#993300\">\"Harness\" <i>(Component)</i></font></h2>\n<hr>\n<font color=\"#993300\"><h3>1. link #12</h3>\nLink to Requirements Toolbox<br/>\nDocument: <font color=\"blue\">NGOS.slreqx</font><br/>\nLocation/Item: <font color=\"blue\">Driver immovability</font><br/>\n</font>\n<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\np, li { white-space: pre-wrap; }\n</style></head><body align=\"left\" style=\" font-family:'MS Shell Dlg 2','MS Shell Dlg 2'; font-size:10pt; font-weight:400; font-style:normal;\">\n<p align=\"left\" style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-family:'MS Shell Dlg 2';\">When is in a crash, we dont want them to move out of their seat or for their head to experience </span><span style=\" font-family:'MS Shell Dlg 2';\">too much </span><span style=\" font-family:'MS Shell Dlg 2';\">whiplash.</span></p></body></html>\n</body></html>\n",
+  "viewer":{
+   "color":"orange"
+  }
+ },
+ {
+  "sid":"EHPV2425:446",
+  "informer":"<html><head><meta charset=\"UTF-8\"></head><body>\n<h2><font color=\"#993300\">\"PAS System\" <i>(Component)</i></font></h2>\n<hr>\n<font color=\"#993300\"><h3>1. link #44</h3>\nLink to Requirements Toolbox<br/>\nDocument: <font color=\"blue\">NGOS.slreqx</font><br/>\nLocation/Item: <font color=\"blue\">Pedal Strength Compensation</font><br/>\n</font>\n<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\np, li { white-space: pre-wrap; }\n</style></head><body align=\"left\" style=\" font-family:'MS Shell Dlg 2','MS Shell Dlg 2'; font-size:10pt; font-weight:400; font-style:normal;\">\n<p align=\"left\" style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-family:'MS Shell Dlg 2';\">Force needed to do work on the pedals</span></p></body></html>\n</body></html>\n",
+  "viewer":{
+   "color":"orange"
+  }
+ },
+ {
+  "sid":"EHPV2425:438",
+  "informer":"<p> No Requirements </p>",
+  "viewer":[
+  ]
+ },
+ {
+  "sid":"EHPV2425:434",
+  "informer":"<p> No Requirements </p>",
+  "viewer":[
+  ]
+ },
+ {
+  "sid":"EHPV2425:433",
+  "informer":"<p> No Requirements </p>",
+  "viewer":[
+  ]
+ },
+ {
+  "sid":"EHPV2425:442",
+  "informer":"<p> No Requirements </p>",
+  "viewer":[
+  ]
+ },
+ {
+  "sid":"EHPV2425:50",
+  "informer":"<html><head><meta charset=\"UTF-8\"></head><body>\n<h2><font color=\"#993300\">\"RPS\" <i>(Component)</i></font></h2>\n<hr>\n<font color=\"#993300\"><h3>1. link #15</h3>\nLink to Requirements Toolbox<br/>\nDocument: <font color=\"blue\">NGOS.slreqx</font><br/>\nLocation/Item: <font color=\"blue\">Rollover and Fall Protection </font><br/>\n</font>\n<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\np, li { white-space: pre-wrap; }\n</style></head><body align=\"left\" style=\" font-family:'MS Shell Dlg 2','MS Shell Dlg 2'; font-size:10pt; font-weight:400; font-style:normal;\">\n<p align=\"left\" style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-family:'MS Shell Dlg 2';\">RO: 90deg+ of falling tilt</span></p>\n<p align=\"left\" style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-family:'MS Shell Dlg 2';\">Fall: Up to 90 deg of falling tilt</span></p></body></html>\n</body></html>\n",
+  "viewer":{
+   "color":"orange"
+  }
+ },
+ {
+  "sid":"EHPV2425:66",
+  "informer":"<html><head><meta charset=\"UTF-8\"></head><body>\n<h2><font color=\"#993300\">\"Rear Wheel Drive\" <i>(Component, 5 links)</i></font></h2>\n<hr>\n<font color=\"#993300\"><h3>1. link #11</h3>\nLink to Requirements Toolbox<br/>\nDocument: <font color=\"blue\">components.slreqx</font><br/>\nLocation/Item: <font color=\"blue\">RWD Sys</font><br/>\n</font>\n<hr>\n<font color=\"#993300\"><h3>2. link #50</h3>\nLink to Requirements Toolbox<br/>\nDocument: <font color=\"blue\">NGOS.slreqx</font><br/>\nLocation/Item: <font color=\"blue\">Sport Driving Condititions</font><br/>\n</font>\n<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\np, li { white-space: pre-wrap; }\n</style></head><body align=\"left\" style=\" font-family:'MS Shell Dlg 2','MS Shell Dlg 2'; font-size:10pt; font-weight:400; font-style:normal;\">\n<p align=\"left\" style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-family:'MS Shell Dlg 2';\">Speeds reach 20+mph</span></p></body></html>\n<hr>\n<font color=\"#993300\"><h3>3. link #75</h3>\nLink to Requirements Toolbox<br/>\nDocument: <font color=\"blue\">NGOS.slreqx</font><br/>\nLocation/Item: <font color=\"blue\">Rain</font><br/>\n</font>\n<hr>\n<font color=\"#993300\"><h3>4. link #76</h3>\nLink to Requirements Toolbox<br/>\nDocument: <font color=\"blue\">NGOS.slreqx</font><br/>\nLocation/Item: <font color=\"blue\">Snow</font><br/>\n</font>\n<hr>\n<font color=\"#993300\"><h3>5. link #77</h3>\nLink to Requirements Toolbox<br/>\nDocument: <font color=\"blue\">NGOS.slreqx</font><br/>\nLocation/Item: <font color=\"blue\">Mud</font><br/>\n</font>\n</body></html>\n",
+  "viewer":{
+   "color":"orange"
+  }
+ },
+ {
+  "sid":"EHPV2425:97",
+  "informer":"<p> No Requirements </p>",
+  "viewer":[
+  ]
+ },
+ {
+  "sid":"EHPV2425:99",
+  "informer":"<p> No Requirements </p>",
+  "viewer":[
+  ]
+ },
+ {
+  "sid":"EHPV2425:184",
+  "informer":"<html><head><meta charset=\"UTF-8\"></head><body>\n<h2><font color=\"#993300\">\"Chain Derailurer\" <i>(Component)</i></font></h2>\n<hr>\n<font color=\"#993300\"><h3>1. link #65</h3>\nLink to Requirements Toolbox<br/>\nDocument: <font color=\"blue\">NGOS.slreqx</font><br/>\nLocation/Item: <font color=\"blue\">Hills</font><br/>\n</font>\n</body></html>\n",
+  "viewer":{
+   "color":"orange"
+  }
+ },
+ {
+  "sid":"EHPV2425:98",
+  "informer":"<html><head><meta charset=\"UTF-8\"></head><body>\n<h2><font color=\"#993300\">\"Motor\" <i>(Component, 2 links)</i></font></h2>\n<hr>\n<font color=\"#993300\"><h3>1. link #51</h3>\nLink to Requirements Toolbox<br/>\nDocument: <font color=\"blue\">NGOS.slreqx</font><br/>\nLocation/Item: <font color=\"blue\">Must reach a velocity of 30mph forward </font><br/>\n</font>\n<hr>\n<font color=\"#993300\"><h3>2. link #52</h3>\nLink to Requirements Toolbox<br/>\nDocument: <font color=\"blue\">NGOS.slreqx</font><br/>\nLocation/Item: <font color=\"blue\">Acceleration of min 5m/s^2</font><br/>\n</font>\n</body></html>\n",
+  "viewer":{
+   "color":"orange"
+  }
+ },
+ {
+  "sid":"EHPV2425:110",
+  "informer":"<html><head><meta charset=\"UTF-8\"></head><body>\n<h2><font color=\"#993300\">\"Motor Encoder\" <i>(Component, 3 links)</i></font></h2>\n<hr>\n<font color=\"#993300\"><h3>1. link #71</h3>\nLink to Requirements Toolbox<br/>\nDocument: <font color=\"blue\">NGOS.slreqx</font><br/>\nLocation/Item: <font color=\"blue\">Wheel Rotation Speed</font><br/>\n</font>\n<hr>\n<font color=\"#993300\"><h3>2. link #72</h3>\nLink to Requirements Toolbox<br/>\nDocument: <font color=\"blue\">NGOS.slreqx</font><br/>\nLocation/Item: <font color=\"blue\">Accel/ decel</font><br/>\n</font>\n<hr>\n<font color=\"#993300\"><h3>3. link #73</h3>\nLink to Requirements Toolbox<br/>\nDocument: <font color=\"blue\">NGOS.slreqx</font><br/>\nLocation/Item: <font color=\"blue\">Speed </font><br/>\n</font>\n</body></html>\n",
+  "viewer":{
+   "color":"orange"
+  }
+ },
+ {
+  "sid":"EHPV2425:139",
+  "informer":"<html><head><meta charset=\"UTF-8\"></head><body>\n<h2><font color=\"#993300\">\"Motor Thermocouple\" <i>(Component)</i></font></h2>\n<hr>\n<font color=\"#993300\"><h3>1. link #74</h3>\nLink to Requirements Toolbox<br/>\nDocument: <font color=\"blue\">NGOS.slreqx</font><br/>\nLocation/Item: <font color=\"blue\">Temperature</font><br/>\n</font>\n</body></html>\n",
+  "viewer":{
+   "color":"orange"
+  }
+ },
+ {
+  "sid":"EHPV2425:104",
+  "informer":"<html><head><meta charset=\"UTF-8\"></head><body>\n<h2><font color=\"#993300\">\"Rear Cassette\" <i>(Component)</i></font></h2>\n<hr>\n<font color=\"#993300\"><h3>1. link #66</h3>\nLink to Requirements Toolbox<br/>\nDocument: <font color=\"blue\">NGOS.slreqx</font><br/>\nLocation/Item: <font color=\"blue\">Hills</font><br/>\n</font>\n</body></html>\n",
+  "viewer":{
+   "color":"orange"
+  }
+ },
+ {
+  "sid":"EHPV2425:107",
+  "informer":"<p> No Requirements </p>",
+  "viewer":[
+  ]
+ },
+ {
+  "sid":"EHPV2425:179",
+  "informer":"<html><head><meta charset=\"UTF-8\"></head><body>\n<h2><font color=\"#993300\">\"Rear Wheel Encoder\" <i>(Component, 3 links)</i></font></h2>\n<hr>\n<font color=\"#993300\"><h3>1. link #68</h3>\nLink to Requirements Toolbox<br/>\nDocument: <font color=\"blue\">NGOS.slreqx</font><br/>\nLocation/Item: <font color=\"blue\">Wheel Rotation Speed</font><br/>\n</font>\n<hr>\n<font color=\"#993300\"><h3>2. link #69</h3>\nLink to Requirements Toolbox<br/>\nDocument: <font color=\"blue\">NGOS.slreqx</font><br/>\nLocation/Item: <font color=\"blue\">Accel/ decel</font><br/>\n</font>\n<hr>\n<font color=\"#993300\"><h3>3. link #70</h3>\nLink to Requirements Toolbox<br/>\nDocument: <font color=\"blue\">NGOS.slreqx</font><br/>\nLocation/Item: <font color=\"blue\">Speed </font><br/>\n</font>\n</body></html>\n",
+  "viewer":{
+   "color":"orange"
+  }
+ },
+ {
+  "sid":"EHPV2425:51",
+  "informer":"<html><head><meta charset=\"UTF-8\"></head><body>\n<h2><font color=\"#993300\">\"Seating\" <i>(Component, 6 links)</i></font></h2>\n<hr>\n<font color=\"#993300\"><h3>1. link #6</h3>\nLink to Requirements Toolbox<br/>\nDocument: <font color=\"blue\">components.slreqx</font><br/>\nLocation/Item: <font color=\"blue\">Seating</font><br/>\n</font>\n<hr>\n<font color=\"#993300\"><h3>2. link #17</h3>\nLink to Requirements Toolbox<br/>\nDocument: <font color=\"blue\">NGOS.slreqx</font><br/>\nLocation/Item: <font color=\"blue\">Driver immovability</font><br/>\n</font>\n<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\np, li { white-space: pre-wrap; }\n</style></head><body align=\"left\" style=\" font-family:'MS Shell Dlg 2','MS Shell Dlg 2'; font-size:10pt; font-weight:400; font-style:normal;\">\n<p align=\"left\" style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-family:'MS Shell Dlg 2';\">When is in a crash, we dont want them to move out of their seat or for their head to experience </span><span style=\" font-family:'MS Shell Dlg 2';\">too much </span><span style=\" font-family:'MS Shell Dlg 2';\">whiplash.</span></p></body></html>\n<hr>\n<font color=\"#993300\"><h3>3. link #27</h3>\nLink to Requirements Toolbox<br/>\nDocument: <font color=\"blue\">NGOS.slreqx</font><br/>\nLocation/Item: <font color=\"blue\">Driver Ingress and Egress</font><br/>\n</font>\n<hr>\n<font color=\"#993300\"><h3>4. link #30</h3>\nLink to Requirements Toolbox<br/>\nDocument: <font color=\"blue\">NGOS.slreqx</font><br/>\nLocation/Item: <font color=\"blue\">Fit in seat</font><br/>\n</font>\n<hr>\n<font color=\"#993300\"><h3>5. link #31</h3>\nLink to Requirements Toolbox<br/>\nDocument: <font color=\"blue\">NGOS.slreqx</font><br/>\nLocation/Item: <font color=\"blue\">Lower Lumbar Support</font><br/>\n</font>\n<hr>\n<font color=\"#993300\"><h3>6. link #56</h3>\nLink to Requirements Toolbox<br/>\nDocument: <font color=\"blue\">NGOS.slreqx</font><br/>\nLocation/Item: <font color=\"blue\">Leisure Riding Conditions</font><br/>\n</font>\n</body></html>\n",
+  "viewer":{
+   "color":"orange"
+  }
+ },
+ {
+  "sid":"EHPV2425:52",
+  "informer":"<html><head><meta charset=\"UTF-8\"></head><body>\n<h2><font color=\"#993300\">\"Steering\" <i>(Component, 4 links)</i></font></h2>\n<hr>\n<font color=\"#993300\"><h3>1. link #7</h3>\nLink to Requirements Toolbox<br/>\nDocument: <font color=\"blue\">components.slreqx</font><br/>\nLocation/Item: <font color=\"blue\">Steering</font><br/>\n</font>\n<hr>\n<font color=\"#993300\"><h3>2. link #45</h3>\nLink to Requirements Toolbox<br/>\nDocument: <font color=\"blue\">NGOS.slreqx</font><br/>\nLocation/Item: <font color=\"blue\">Steering Compensation</font><br/>\n</font>\n<hr>\n<font color=\"#993300\"><h3>3. link #48</h3>\nLink to Requirements Toolbox<br/>\nDocument: <font color=\"blue\">NGOS.slreqx</font><br/>\nLocation/Item: <font color=\"blue\">Comfortably move around people</font><br/>\n</font>\n<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\np, li { white-space: pre-wrap; }\n</style></head><body align=\"left\" style=\" font-family:'MS Shell Dlg 2','MS Shell Dlg 2'; font-size:10pt; font-weight:400; font-style:normal;\">\n<p align=\"left\" style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-family:'MS Shell Dlg 2';\">Ability to comfortably move around people</span></p></body></html>\n<hr>\n<font color=\"#993300\"><h3>4. link #55</h3>\nLink to Requirements Toolbox<br/>\nDocument: <font color=\"blue\">NGOS.slreqx</font><br/>\nLocation/Item: <font color=\"blue\">Leisure Riding Conditions</font><br/>\n</font>\n</body></html>\n",
+  "viewer":{
+   "color":"orange"
+  }
+ },
+ {
+  "sid":"EHPV2425:378",
+  "informer":"<p> No Requirements </p>",
+  "viewer":[
+  ]
+ },
+ {
+  "sid":"EHPV2425:160",
+  "informer":"<html><head><meta charset=\"UTF-8\"></head><body>\n<h2><font color=\"#993300\">\"Left Pulse Sensor\" <i>(Component)</i></font></h2>\n<hr>\n<font color=\"#993300\"><h3>1. link #14</h3>\nLink to Requirements Toolbox<br/>\nDocument: <font color=\"blue\">NGOS.slreqx</font><br/>\nLocation/Item: <font color=\"blue\">Health Safety</font><br/>\n</font>\n</body></html>\n",
+  "viewer":{
+   "color":"orange"
+  }
+ },
+ {
+  "sid":"EHPV2425:523",
+  "informer":"<html><head><meta charset=\"UTF-8\"></head><body>\n<h2><font color=\"#993300\">\"Mechanical Steering\" <i>(Component, 2 links)</i></font></h2>\n<hr>\n<font color=\"#993300\"><h3>1. link #39</h3>\nLink to Requirements Toolbox<br/>\nDocument: <font color=\"blue\">NGOS.slreqx</font><br/>\nLocation/Item: <font color=\"blue\">Comfortable Handlebars</font><br/>\n</font>\n<hr>\n<font color=\"#993300\"><h3>2. link #57</h3>\nLink to Requirements Toolbox<br/>\nDocument: <font color=\"blue\">NGOS.slreqx</font><br/>\nLocation/Item: <font color=\"blue\">Minimal Effort for Actuaction</font><br/>\n</font>\n</body></html>\n",
+  "viewer":{
+   "color":"orange"
+  }
+ },
+ {
+  "sid":"EHPV2425:72",
+  "informer":"<p> No Requirements </p>",
+  "viewer":[
+  ]
+ },
+ {
+  "sid":"EHPV2425:69",
+  "informer":"<html><head><meta charset=\"UTF-8\"></head><body>\n<h2><font color=\"#993300\">\"Left Wheel\" <i>(Component, 3 links)</i></font></h2>\n<hr>\n<font color=\"#993300\"><h3>1. link #58</h3>\nLink to Requirements Toolbox<br/>\nDocument: <font color=\"blue\">NGOS.slreqx</font><br/>\nLocation/Item: <font color=\"blue\">Rain</font><br/>\n</font>\n<hr>\n<font color=\"#993300\"><h3>2. link #59</h3>\nLink to Requirements Toolbox<br/>\nDocument: <font color=\"blue\">NGOS.slreqx</font><br/>\nLocation/Item: <font color=\"blue\">Snow</font><br/>\n</font>\n<hr>\n<font color=\"#993300\"><h3>3. link #62</h3>\nLink to Requirements Toolbox<br/>\nDocument: <font color=\"blue\">NGOS.slreqx</font><br/>\nLocation/Item: <font color=\"blue\">Mud</font><br/>\n</font>\n</body></html>\n",
+  "viewer":{
+   "color":"orange"
+  }
+ },
+ {
+  "sid":"EHPV2425:73",
+  "informer":"<p> No Requirements </p>",
+  "viewer":[
+  ]
+ },
+ {
+  "sid":"EHPV2425:70",
+  "informer":"<html><head><meta charset=\"UTF-8\"></head><body>\n<h2><font color=\"#993300\">\"Right Wheel\" <i>(Component, 3 links)</i></font></h2>\n<hr>\n<font color=\"#993300\"><h3>1. link #60</h3>\nLink to Requirements Toolbox<br/>\nDocument: <font color=\"blue\">NGOS.slreqx</font><br/>\nLocation/Item: <font color=\"blue\">Snow</font><br/>\n</font>\n<hr>\n<font color=\"#993300\"><h3>2. link #61</h3>\nLink to Requirements Toolbox<br/>\nDocument: <font color=\"blue\">NGOS.slreqx</font><br/>\nLocation/Item: <font color=\"blue\">Rain</font><br/>\n</font>\n<hr>\n<font color=\"#993300\"><h3>3. link #63</h3>\nLink to Requirements Toolbox<br/>\nDocument: <font color=\"blue\">NGOS.slreqx</font><br/>\nLocation/Item: <font color=\"blue\">Mud</font><br/>\n</font>\n</body></html>\n",
+  "viewer":{
+   "color":"orange"
+  }
+ },
+ {
+  "sid":"EHPV2425:71",
+  "informer":"<p> No Requirements </p>",
+  "viewer":[
+  ]
+ },
+ {
+  "sid":"EHPV2425:384",
+  "informer":"<p> No Requirements </p>",
+  "viewer":[
+  ]
+ },
+ {
+  "sid":"EHPV2425:399",
+  "informer":"<html><head><meta charset=\"UTF-8\"></head><body>\n<h2><font color=\"#993300\">\"Right Pulse Sensor\" <i>(Component)</i></font></h2>\n<hr>\n<font color=\"#993300\"><h3>1. link #13</h3>\nLink to Requirements Toolbox<br/>\nDocument: <font color=\"blue\">NGOS.slreqx</font><br/>\nLocation/Item: <font color=\"blue\">Health Safety</font><br/>\n</font>\n</body></html>\n",
+  "viewer":{
+   "color":"orange"
+  }
+ },
+ {
+  "sid":"EHPV2425:53",
+  "informer":"<html><head><meta charset=\"UTF-8\"></head><body>\n<h2><font color=\"#993300\">\"Tow Hitch\" <i>(Component)</i></font></h2>\n<hr>\n<font color=\"#993300\"><h3>1. link #8</h3>\nLink to Requirements Toolbox<br/>\nDocument: <font color=\"blue\">components.slreqx</font><br/>\nLocation/Item: <font color=\"blue\">Tow Hitch</font><br/>\n</font>\n</body></html>\n",
+  "viewer":{
+   "color":"orange"
+  }
+ }
+]
